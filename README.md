@@ -33,7 +33,6 @@ This Java application is designed for managing visitors at fitness centers acros
 
 - Java for the backend logic and application development.
 - CSV file for data storage and retrieval.
-- Java Swing or JavaFX for building the user interface.
 
 ## Setup Instructions
 
